@@ -38,23 +38,114 @@ Date | Name | Build# | Installer#
 2019/02/18 | 10.14.4 Beta 3                        | 18E194d      | -
 2019/02/04 | 10.14.4 Beta 2                        | 18E184e      | -
 2019/01/24 | 10.14.4 Beta 1                        | 18E174f      | -
-
 **2019/02/07** | **10.14.3**                       | **18D109**   | **-**
 **2019/02/07** | **10.14.3**                       | **18D43**    | **-**
 **2019/02/07** | **10.14.3**                       | **18D42**    | **-**
+2019/01/10 | 10.14.3 Beta 4                        | 18D39a       | -
+2019/01/07 | 10.14.3 Beta 3                        | 18D38a       | -
+2018/12/19 | 10.14.3 Beta 2                        | 18D32a       | -
+2018/12/10 | 10.14.3 Beta 1                        | 18D21c       | -
 **2018/12/05** | **10.14.2**                       | **18C54**    | **-**
+2018/11/28 | 10.14.2 Beta 4                        | 18C52a       | -
+2018/11/15 | 10.14.2 Beta 3                        | 18C48a       | -
+2018/11/07 | 10.14.2 Beta 2                        | 18C38b       | -
+2018/11/01 | 10.14.2 Beta 1 Release 2              | 18C31G       | -
+2018/10/31 | 10.14.2 Beta 1 BridgeOS               | 16G1704      | -
+2018/10/31 | 10.14.2 Beta 1                        | 17G4005      | -
 **2018/10/30** | **10.14.1**                       | **18B3094**  | **-**
 **2018/10/30** | **10.14.1**                       | **18B2107**  | **-**
 **2018/10/30** | **10.14.1**                       | **18B75**    | **-**
+2018/10/17 | 10.14.1 Beta 4                        | 18B67a       | -
+2018/10/08 | 10.14.1 Beta 3                        | 18B57c       | -
+2018/10/02 | 10.14.1 Beta 2                        | 18B50c       | -
+2018/09/25 | 10.14.1 Beta 1                        | 18B45d       | -
 **2018/09/24** | **10.14.0**                       | **18A391**   | **-**
-2018/07/16 | 10.14.0 Developer Preview 4           | 18A336e      | -
-2018/07/06 | 10.14.0 Beta 2                        | 18A326h      | -
-2018/07/03 | 10.14.0 Developer Preview 3           | 18A326g      | -
-2018/06/26 | 10.14.0 Beta 1                        | 18A314k      | -
-2018/06/19 | 10.14.0 Developer Preview 2           | 18A314h      | -
-2018/06/04 | 10.14.0 Developer Preview 1           | 18A293u      | -
+2018/09/12 | 10.14.0 Beta 11                       | 18A389       | -
+2018/09/04 | 10.14.0 Beta 10                       | 18A384a      | -
+2018/08/27 | 10.14.0 Beta 9                        | 18A377a      | -
+2018/08/20 | 10.14.0 Beta 8                        | 18A371a      | -
+2018/08/06 | 10.14.0 Beta 7                        | 18A365a      | -
+2018/08/06 | 10.14.0 Beta 6                        | 18A353d      | -
+2018/07/30 | 10.14.0 Beta 5                        | 18A347e      | -
+2018/07/16 | 10.14.0 Beta 4                        | 18A336e      | -
+2018/07/03 | 10.14.0 Beta 3                        | 18A326g      | -
+2018/07/06 | 10.14.0 Beta 2                        | 18A314h      | -
+2018/06/26 | 10.14.0 Beta 1                        | 18A293u      | -
 
 ## 10.13 "macOS High Sierra"
+Confirmed build 17G3025 (10.13.6 Security Update 2018-002)
+Confirmed build 15P6805 (10.13.6 Supplemental Update 2 BridgeOS)
+Confirmed build 17G2307 (10.13.6 Supplemental Update 2)
+Confirmed build 15P6703 (10.13.6 Supplemental Update 1 BridgeOS)
+Confirmed build 17G2208 (10.13.6 Supplemental Update 1)
+Confirmed build 17G65 (10.13.6)
+Confirmed build 17G54a (10.13.6 Beta 4)
+Confirmed build 17G47b (10.13.6 Beta 3)
+Confirmed build 17G39b (10.13.6 Beta 2)
+Confirmed build 17G31f (10.13.6 Beta 1)
+10.13.6
+Confirmed build 17F77 (10.13.5)
+Confirmed build 17F70a (10.13.5 Beta 5)
+Confirmed build 17F66a (10.13.5 Beta 4)
+Confirmed build 17F59b (10.13.5 Beta 3)
+Confirmed build 17F45c (10.13.5 Beta 2)
+Confirmed build 17F35e (10.13.5 Beta 1)
+10.13.5
+Confirmed build 17E202 (10.13.4 Security Update 2018-001)
+Confirmed build 17E199 (10.13.4)
+Confirmed build 17E197a (10.13.4 Beta 7)
+Confirmed build 17E190a (10.13.4 Beta 6)
+Confirmed build 17E182a (10.13.4 Beta 5)
+Confirmed build 17E170c (10.13.4 Beta 4)
+Confirmed build 17E160e (10.13.4 Beta 3)
+Confirmed build 17E150g (10.13.4 Beta 2)
+Confirmed build 17E150f (10.13.4 Beta 2)
+Confirmed build 17E139j (10.13.4 Beta 1)
+10.13.4
+Confirmed build 17D2102 (10.13.3 Supplemental Update)
+Confirmed build 17D102 (10.13.3 Supplemental Update)
+Confirmed build 17D2047 (10.13.3)
+Confirmed build 17D47 (10.13.3)
+Confirmed build 17D2046a (10.13.3 Beta 6)
+Confirmed build 17D46a (10.13.3 Beta 6)
+Confirmed build 17D39a (10.13.3 Beta 5)
+Confirmed build 17D34a (10.13.3 Beta 4)
+Confirmed build 17D29a (10.13.3 Beta 3)
+Confirmed build 17D25b (10.13.3 Beta 2)
+Confirmed build 17D20a (10.13.3 Beta 1)
+10.13.3
+Confirmed build 17C2205 (10.13.2 Supplemental Update)
+Confirmed build 17C205 (10.13.2 Supplemental Update)
+Confirmed build 17C88 (10.13.2)
+Confirmed build 17C85a (10.13.2 Beta 6)
+Confirmed build 17C83c (10.13.2 Beta 5)
+Confirmed build 17C79a (10.13.2 Beta 4)
+Confirmed build 17C76a (10.13.2 Beta 3)
+Confirmed build 17C67b (10.13.2 Beta 2)
+Confirmed build 17C60c (10.13.2 Beta 1)
+10.13.2
+Confirmed build 17B46a (10.13.1)
+Confirmed build 17B46a (10.13.1 Beta 5)
+Confirmed build 17B45a (10.13.1 Beta 4)
+Confirmed build 17B42a (10.13.1 Beta 3)
+Confirmed build 17B35a (10.13.1 Beta 2)
+Confirmed build 17B25c (10.13.1 Beta 1)
+10.13.1
+Confirmed build 17A405 (10.13 Supplemental Update)
+Confirmed build 17A365 (10.13)
+RTM
+Confirmed build 17A362a (GM Candidate 1)
+Gold Master
+Confirmed build 17A358a (Beta 8)
+Confirmed build 17A352a (Beta 7)
+Confirmed build 17A344b (Beta 6)
+Confirmed build 17A330h (Beta 5)
+Confirmed build 17A315i (Beta 4)
+Confirmed build 17A306f (Beta 3)
+Confirmed build 17A291m (Beta 2 Update 1)
+Confirmed build 17A291j (Beta 2)
+Confirmed build 17A264c (Beta 1)
+Beta
 ## 10.12 "macOS Sierra"
 ## 10.11 "OS X El Capitan"	10.11.6
 ## 10.10 "OS X Yosemite"	10.10.5
