@@ -143,6 +143,8 @@ Date | Name | Build# | Installer#
 2017/06/06 | 10.13 Beta 1                          | 17A264c      | -
 
 ## 10.12 "macOS Sierra"
+Date | Name | Build# | Installer#
+--- | --- | --- | ---
 **2017/07/19** | **10.12.6** | **16G29** | **-**
 2017/07/05 | 10.12.6 Beta 6 | 16G24b | -
 2017/06/28 | 10.12.6 Beta 5 | 16G23a | -
@@ -194,6 +196,8 @@ Date | Name | Build# | Installer#
 2016/06/13 | 10.12.0 Beta 1 | 16A201w | -
 
 ## 10.11 "OS X El Capitan"	10.11.6
+Date | Name | Build# | Installer#
+--- | --- | --- | ---
 2016/10/24 | 10.11.6 Security Update 2016-002 | 15G1108 | -
 2016/09/01 | 10.11.6 Security Update 2016-001 | 15G1004 | -
 **2016/07/19** | **10.11.6** | **15G31** | **-**
